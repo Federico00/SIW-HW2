@@ -1,0 +1,60 @@
+
+.flex-container {
+  display: flex;
+  align-items: center;
+ 
+  
+}
+
+div {
+	padding: 0;
+	margin: 0;
+}
+
+h1 {
+	padding: 0;
+	margin: 0;
+}
+
+h2 {
+	padding: 0;
+	margin: 0;
+}
+
+
+h3 {
+	padding: 0;
+	margin: 0;
+}
+
+#img2 {
+	border-radius: 3%;
+}
+#img1 {
+	width: 13%;
+}
+
+body {
+	background-color: azure;
+	
+}
+
+nav {
+	background-color: cornflowerblue;
+	border-radius: 5%;
+	padding: 0.5%
+	
+}
+
+section {
+	background: url(SfondoRett.png) center ; 
+
+}
+
+
+
+footer {
+	background-color: black;
+	border-radius: 3%;
+	
+}
